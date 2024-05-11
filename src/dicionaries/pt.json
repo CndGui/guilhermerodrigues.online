@@ -1,0 +1,91 @@
+{
+    "owner": {
+        "firstname": "Guilherme",
+        "lastname": "Rodrigues",
+        "fullname": "Guilherme Rodrigues",
+        "description": "Desenvolvedor FullStack",
+        "image_url": "/images/perfil.png"
+    },
+    "metadata": {
+        "description": "Desenvolvedor Full Stack, focado em criar projetos incríveis. Explore meu portfólio e descubra mais sobre as stacks e ferramentas que utilizo no dia a dia, além de alguns dos meus principais projetos. Se ficar interessado, não hesite em entrar em contato comigo."
+    },
+    "sidebar": {
+        "navegations": {
+            "home": "Início",
+            "projects": "Projetos",
+            "stacks": "Stacks e Ferramentas"
+        },
+        "separators": {
+            "me": "Eu",
+            "socials": "Redes sociais"
+        },
+        "settings": {
+            "categorys": {
+                "themes": "Temas",
+                "languages": "Linguagens"
+            },
+            "themes": {
+                "system": "Sistema",
+                "dark": "Escuro",
+                "light": "Claro"
+            },
+            "languages": {
+                "en": "Inglês",
+                "pt": "Português"
+            }
+        }
+    },
+    "pages": {
+        "home": {
+            "title": "Início",
+            "sections": {
+                "about": {
+                    "title": "Sobre mim",
+                    "content": "Olá, sou Guilherme Rodrigues de Morais, um jovem de 19 anos fascinado pelo mundo da programação. Minha jornada nesse universo teve início há mais de 5 anos, com a criação de bots para Discord. No entanto, foi em janeiro de 2024 que me dediquei de corpo e alma a essa área, embarcando em uma jornada de aprendizado e crescimento como Desenvolvedor FullStack. Me apaixonei pela versatilidade do desenvolvimento FullStack, que me permite atuar tanto na construção da interface do usuário quanto na lógica por trás dela."
+                },
+                "experience": {
+                    "title": "Experiência"
+                },
+                "contact": {
+                    "title": "Contate-me",
+                    "download": "Clique para ver meu currículo"
+                }
+            }
+        },
+        "projects": {
+            "title": "Meus Projetos",
+            "description": "Aqui estão alguns dos meus principais projetos: Front-end, Back-end ou Full-stack. Veja mais em",
+            "buttons": {
+                "visit": "Visitar",
+                "code": "Código"
+            },
+            "my_portfolio_old": {
+                "description": "É o projeto da primeira versão do meu portfólio. Apenas com HTML, CSS e JS."
+            },
+            "snake_game": {
+                "description": "Um projeto onde segui um vídeo do youtube. Fiz ele apenas para pegar algumas noções básicas na época."
+            },
+            "voting_topics": {
+                "description": "Uma Api RestFull, onde você pode criar tópicos sobre algum assunto, e dentro do mesmo, você pode criar várias sessões, onde nelas ficam armazenados os votos."
+            },
+            "test_lesser": {
+                "description": "Um desáfio de uma vaga que eu estava concorrendo. Resumidamente, o usuário tem 15 segundos, para preencher um formulário."
+            },
+            "blog_post": {
+                "description": "Um projeto FullStack, onde basicamente o usuário pode criar sua conta, e criar posts. Outro desafio."
+            }
+        },
+        "stacks": {
+            "title": "Stacks e Ferramentas",
+            "description": "Todas as tecnologias e ferramentas que uso para desenvolver meus projetos têm como objetivo, para mim, propor soluções ou eficientizar algo no meu projeto.",
+
+            "categories": {
+                "front": "Front-end",
+                "back": "Back-end",
+                "db": "Banco de Dados",
+                "vc": "Controle de Versão",
+                "tool": "Ferramentas"
+            }
+        }
+    }
+}
