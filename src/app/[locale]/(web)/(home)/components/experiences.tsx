@@ -7,7 +7,7 @@ export function Experiences() {
         <>
             {experiencesData.map((experience, index) => (
                 <FadeDiv key={index} delay={0.3} className="flex gap-4 bg-black/15 dark:bg-white/5 rounded-md px-4 py-2 items-center">
-                    <img src={experience.image} alt={`${experience.name} Image`} className="size-14 min-w-14" />
+                    <img src={experience.image} alt={`${experience.name} Image`} className="size-14 min-w-14 rounded-md" />
 
                     <div className="flex flex-col">
                         <p className="text-">{experience.name}</p>
