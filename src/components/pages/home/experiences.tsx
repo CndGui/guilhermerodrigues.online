@@ -33,15 +33,21 @@ export function HomeExperiences() {
 
 const experiencesData: Experience[] = [
   {
-    company: "Screen Network",
-    role: "Software Engineer",
-    duration: "Jan 2018 - Jan 2019",
-    image: "/images/screen-network.png",
+    company: "CI&T",
+    role: "Developer",
+    duration: "Apr 2026 - Present",
+    image: "/images/cit.png",
   },
   {
     company: "Puc GO",
     role: "Student",
     duration: "Oct 2024 - Present",
     image: "/images/puc-go.png",
+  },
+  {
+    company: "Screen Network",
+    role: "Software Engineer",
+    duration: "Jan 2018 - Jan 2019",
+    image: "/images/screen-network.png",
   },
 ];
